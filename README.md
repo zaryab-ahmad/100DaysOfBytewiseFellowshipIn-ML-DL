@@ -32,43 +32,70 @@ In Week 2, the focus was on learning and utilizing various Python libraries for 
 
 Libraries Covered
 NumPy
-Purpose: Numerical computing with powerful n-dimensional array objects.
-Key Functions: Array creation, mathematical operations, and broadcasting.
+
+Purpose:
+Numerical computing with powerful n-dimensional array objects.
+Key Functions:
+Array creation, mathematical operations, and broadcasting.
 Pandas
-Purpose: Data manipulation and analysis.
-Key Functions: DataFrame creation, data cleaning, and aggregation.
+Purpose:
+Data manipulation and analysis.
+Key Functions:
+DataFrame creation, data cleaning, and aggregation.
 Matplotlib
-Purpose: Data visualization.
-Key Functions: Creating line plots, bar charts, scatter plots, and subplots.
+Purpose:
+Data visualization.
+Key Functions:
+Creating line plots, bar charts, scatter plots, and subplots.
 Seaborn
-Purpose: Statistical data visualization built on top of Matplotlib.
+Purpose: 
+Statistical data visualization built on top of Matplotlib.
 Key Functions: Creating pairplots, box plots, heatmaps, and violin plots.
 Scikit-learn
-Purpose: Machine learning library for model training and evaluation.
-Key Functions: Model training, validation, and evaluation using various algorithms.
+Purpose: 
+Machine learning library for model training and evaluation.
+Key Functions:
+Model training, validation, and evaluation using various algorithms.
 Datasets Worked On
-Titanic Dataset: Passenger data from the Titanic disaster.
-Iris Dataset: Measurements of iris flowers.
-Red and White Wine Datasets: Chemical properties of red and white wines.
-Bike Sharing Dataset: Data on bike rentals over time.
-Heart Disease Dataset: Medical data for predicting heart disease.
-Additional Datasets: Various other datasets for practice and exploration.
+Titanic Dataset: 
+Passenger data from the Titanic disaster.
+Iris Dataset:
+Measurements of iris flowers.
+Red and White Wine Datasets: 
+Chemical properties of red and white wines.
+Bike Sharing Dataset: 
+Data on bike rentals over time.
+Heart Disease Dataset:
+Medical data for predicting heart disease.
+Additional Datasets:
+Various other datasets for practice and exploration.
 Key Concepts and Tasks
 Data Preprocessing
-Handling Missing Values: Techniques such as imputation and dropping missing data.
-Dropping Unwanted Columns: Removing irrelevant or redundant features.
-Feature Engineering: Creating new features from existing data to improve model performance.
+Handling Missing Values:
+Techniques such as imputation and dropping missing data.
+Dropping Unwanted Columns:
+Removing irrelevant or redundant features.
+Feature Engineering: 
+Creating new features from existing data to improve model performance.
 Data Visualization
-Plotting with Matplotlib: Creating basic plots to visualize data trends and distributions.
+Plotting with Matplotlib:
+Creating basic plots to visualize data trends and distributions.
 Advanced Visualizations with Seaborn: Using Seaborn for more complex and aesthetically pleasing visualizations.
 Model Training
-Logistic Regression: Training and evaluating logistic regression models for classification tasks.
-Linear Regression: Implementing linear regression for predicting continuous outcomes.
-Tree-Based Models: Utilizing decision trees for classification and regression tasks.
+Logistic Regression: 
+Training and evaluating logistic regression models for classification tasks.
+Linear Regression: 
+Implementing linear regression for predicting continuous outcomes.
+Tree-Based Models:
+Utilizing decision trees for classification and regression tasks.
 Workflow
-Loading Data: Reading datasets into Pandas DataFrames.
-Data Cleaning: Handling missing values, removing unwanted columns, and standardizing data.
-Exploratory Data Analysis (EDA): Using visualizations to understand data distributions and relationships.
-Feature Engineering: Creating and selecting the most relevant features for model training.
+Loading Data: 
+Reading datasets into Pandas DataFrames.
+Data Cleaning: 
+Handling missing values, removing unwanted columns, and standardizing data.
+Exploratory Data Analysis (EDA):
+Using visualizations to understand data distributions and relationships.
+Feature Engineering: 
+Creating and selecting the most relevant features for model training.
 Model Training and Evaluation: Implementing machine learning algorithms, training models, and evaluating their performance using metrics such as accuracy, precision, recall, and F1 score.
 
